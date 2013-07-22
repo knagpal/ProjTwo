@@ -8,11 +8,8 @@ public class Proof {
 	}
 
 	public LineNumber nextLineNumber ( ) {
-<<<<<<< HEAD
+   //Rayan :)
 		lineCount.count--;
-=======
-		lineCount.count++;
->>>>>>> 15f68bbb3e8ff46abe51db5bef672d2cdecb87ed
 		return lineCount;
 	}
 
